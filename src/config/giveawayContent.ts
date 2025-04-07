@@ -1,13 +1,11 @@
-
 // This file centralizes all editable content for the giveaway page
 
 // Prize section
 export const prizeImages = [
-  "https://images.unsplash.com/photo-1552767059-ce182ead6c1b?q=80&w=1000", // Main cheese board
-  "https://images.unsplash.com/photo-1452195100486-9cc805987862?q=80&w=500", // Cheese assortment
-  "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?q=80&w=500", // Olives and cheese
+  "https://images.unsplash.com/photo-1556742517-fde6c2abbe11?ixid=M3w3MjQzNjF8MXwxfHNlYXJjaHwxfHxjYWZlfGVufDB8fHx8MTc0NDA1OTM0NHww&ixlib=rb-4.0.3",
+  "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixid=M3w3MjQzNjF8MHwxfHNlYXJjaHwyfHxjYWZlfGVufDB8fHx8MTc0NDA1OTM0NHww&ixlib=rb-4.0.3", 
+  "https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixid=M3w3MjQzNjF8MHwxfHNlYXJjaHwzfHxjYWZlfGVufDB8fHx8MTc0NDA1OTM0NHww&ixlib=rb-4.0.3", 
 ];
-
 export const prizeContent = {
   title: "Gourmet Cheese Board Gift Basket",
   description: "This curated gift basket is perfect for an at-home charcuterie night. Featuring a handcrafted wooden cheese board, assortment of fine cheeses, olives, sea salt pretzels, chocolate bark, and a premium knife set—everything you need for a delicious evening with your loved ones.",
@@ -143,10 +141,10 @@ export const rulesContent = {
 // Contact section
 export const contactContent = {
   title: "Get In Touch",
-  email: "info@rapsgiveaway.com",
-  phone: "416-555-1234",
+  email: "info@theskygroup.ca",
+  phone: "289-210-5250",
   brokerage: {
-    name: "Toronto Sports Entertainment",
+    name: "The Sky Group",
     address: "123 Arena Blvd, Toronto"
   },
   disclaimer: "This site is not intended to solicit buyers or sellers who are currently under contract.",
@@ -157,23 +155,23 @@ export const contactContent = {
 // Footer section
 export const footerContent = {
   aboutText: "The Raptors Giveaway specializes in offering exclusive prizes to our dedicated fans.",
-  email: "info@rapsgiveaway.com",
-  phone: "416-555-1234",
+  email: "info@theskygroup.ca",
+  phone: "289-210-5250",
   quickLinks: ["Home", "About", "Listings", "Contact", "Privacy Policy"],
   newsletterText: "Subscribe to our newsletter for the latest updates on giveaways and exclusive offers.",
   brokerage: {
-    name: "Toronto Sports Entertainment",
+    name: "The Sky Group",
     address: "123 Arena Blvd, Toronto"
   },
   disclaimer: "This site is not intended to solicit buyers or sellers who are currently under contract.",
   copyright: "Copyright 2025. All rights reserved",
-  company: "The Sky Group Real Estate",
+  company: "The Sky Group",
   privacyPolicyText: "Privacy Policy"
 };
 
 // Countdown
 export const countdownContent = {
-  endDate: new Date("February 2, 2025") 
+  endDate: new Date("May 9, 2025")
 };
 
 // Color scheme configuration for the entire giveaway
